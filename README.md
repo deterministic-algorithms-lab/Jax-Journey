@@ -1,1 +1,25 @@
 # Jax-Journey
+
+## A first Introduction 
+
+**Blog** : [Getting Started with Jax](https://roberttlange.github.io/posts/2020/03/blog-post-10/) by Robert Tjarko Lange
+
+**Notebook** : [jax_basic.ipynb](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/jax_basic.ipynb)
+
+## Functional Programmning Intro
+
+**Blog** : [Functional JS 2](https://medium.com/dailyjs/functional-js-2-functions-duh-70bf22f87bb8) , [Functional JS 3](https://medium.com/dailyjs/functional-js-3-state-89d8cc9ebc9e) by Krzysztof Czernek
+
+## How it works 
+
+**A nice comment on Jax** :  https://github.com/google/jax/issues/196#issuecomment-451671635
+
+**Blog** : [From PyTorch to Jax : Towards NN frameworks that purify stateful code](https://sjmielke.com/jax-purify.htm) by Sabrina J. Mielke
+
+**Notebook** : [making_functions_pure.ipynb](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/making_functions_pure.ipynb)
+
+## Flax Intro
+
+**Blog** :  [Documentation Tutorial](https://flax.readthedocs.io/en/latest/notebooks/flax_basics.html)
+
+**Notebook** : [Basics-MLP](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/flax_basics.ipynb) , [Basics-MNIST](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/flax_mnist.ipynb)
