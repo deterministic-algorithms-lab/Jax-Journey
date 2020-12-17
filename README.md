@@ -23,3 +23,17 @@
 **Blog** :  [Documentation Tutorial](https://flax.readthedocs.io/en/latest/notebooks/flax_basics.html)
 
 **Notebook** : [Basics-MLP](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/flax_basics.ipynb) , [Basics-MNIST](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/flax_mnist.ipynb)
+
+### Note : Now is the best time to read [Jax-The Sharp Bits](https://jax.readthedocs.io/en/latest/notebooks/Common_Gotchas_in_JAX.html)
+
+## Haiku Intro
+
+**Notebook** : [haiku basics with lstm](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/haiku_basics.ipynb)
+
+**Blog** : [From PyTorch to Jax : Towards NN frameworks that purify stateful code](https://sjmielke.com/jax-purify.htm) by Sabrina J. Mielke
+
+## Basic Transformer Using Haiku
+
+**Notebook** : [basic_transformer.ipynb](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/basic_transformer.ipynb)
+
+**Blog** : [FineTuning Transformers with Jax+Haiku](https://www.pragmatic.ml/finetuning-transformers-with-jax-and-haiku/) by Madison May
