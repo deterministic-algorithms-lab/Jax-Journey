@@ -37,3 +37,13 @@
 **Notebook** : [basic_transformer.ipynb](https://github.com/deterministic-algorithms-lab/Jax-Journey/blob/main/basic_transformer.ipynb)
 
 **Blog** : [FineTuning Transformers with Jax+Haiku](https://www.pragmatic.ml/finetuning-transformers-with-jax-and-haiku/) by Madison May
+
+## Jax - A deeper Dive
+
+The following tutorials form a nice starting point, for a deeper dive into Jax mechanics :
+
+1. [On Automatic Differentiation in Jax](https://jax.readthedocs.io/en/latest/notebooks/autodiff_cookbook.html)
+
+2. [How Jax Represents your functions internally : Jaxprs](https://jax.readthedocs.io/en/latest/jaxpr.html#understanding-jaxprs)
+
+3. [How Jax Primitives Work](https://jax.readthedocs.io/en/latest/notebooks/How_JAX_primitives_work.html)
